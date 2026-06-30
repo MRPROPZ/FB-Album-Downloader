@@ -32,7 +32,6 @@ pip install gallery-dl
 project/
 ├── download.py
 ├── cookies.txt
-└── README.md
 ```
 
 > **หมายเหตุ**
