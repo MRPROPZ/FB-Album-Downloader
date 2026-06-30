@@ -1,4 +1,3 @@
-````markdown
 # 📸 Facebook Album Downloader
 
 ดาวน์โหลดรูปภาพทั้งหมดจากอัลบั้ม Facebook ด้วย **Python + gallery-dl**
