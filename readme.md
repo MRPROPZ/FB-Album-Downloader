@@ -41,7 +41,7 @@ project/
 เปิดไฟล์ `download.py`
 
 ```python
-ALBUM_URL = "https://www.facebook.com/media/set/?set=YOUR_ALBUM_ID&type=3"
+ALBUM_URL = "https://www.facebook.com/media/set/?set=..."
 ```
 
 ### 2. รันโปรแกรม
