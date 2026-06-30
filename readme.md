@@ -19,7 +19,7 @@ pip install gallery-dl
 
 ### 3. เตรียมไฟล์ `cookies.txt`
 
-1. ติดตั้งส่วนขยาย **Get cookies.txt LOCALLY** บน Chrome หรือ Edge
+1. ติดตั้งส่วนขยาย [**Get cookies.txt LOCALLY**](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) บน Chrome หรือ Edge
 2. ล็อกอิน Facebook ด้วยบัญชีที่สามารถเข้าถึงอัลบั้มที่ต้องการดาวน์โหลด
 3. เปิดหน้า Facebook (หน้าใดก็ได้)
 4. คลิกไอคอน **Get cookies.txt LOCALLY**
